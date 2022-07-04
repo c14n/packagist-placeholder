@@ -1,0 +1,9 @@
+{
+  "name": "c14n/packagist-placeholder",
+  "type": "library",
+  "description": "Protects the c14n vendor name on packagist.org.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
